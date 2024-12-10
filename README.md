@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafiq Babayev
-- 🌱 I’m currently learning Java and Spring Boot
+- 🌱 I’m currently learning Python, Java and Spring Boot
 - 📫 How to reach me: rafiq.babayev.29@gmail.com
 
 <!---
